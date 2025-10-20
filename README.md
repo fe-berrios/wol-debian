@@ -1,2 +1,1 @@
-# wol-debian
-# wol-debian
+Servidor de Minecraft con WOL

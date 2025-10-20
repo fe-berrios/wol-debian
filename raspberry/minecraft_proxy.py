@@ -12,9 +12,9 @@ import signal
 PROXY_HOST = '0.0.0.0'
 PROXY_PORT = 25565
 
-SERVER_HOST = '192.168.100.36'
+SERVER_HOST = {SERVER_HOST}
 SERVER_PORT = 25565
-SERVER_MAC = '40:A8:F0:67:CA:21'
+SERVER_MAC = {SERVER_MAC}
 
 # Ruta al icono del servidor (PNG 64x64)
 SERVER_ICON_PATH = '/home/paip/minecraft-proxy/server-icon.png'
