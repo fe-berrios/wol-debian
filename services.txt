@@ -1,0 +1,10 @@
+# Recargar systemd
+sudo systemctl daemon-reload
+
+# Habilitar e iniciar
+sudo systemctl enable minecraft-proxy / playit
+sudo systemctl start minecraft-proxy / playit
+
+# Ver estado
+sudo systemctl status minecraft-proxy / playit
+sudo journalctl -u playit -f
